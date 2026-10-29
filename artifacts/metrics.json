@@ -1,0 +1,11 @@
+{
+  "dataset": "Synthetic latent-preference user-item interaction simulation",
+  "seed": 42,
+  "mode": "recommend",
+  "metric": "NDCG@5",
+  "models": {
+    "Collaborative cosine": 0.3299,
+    "Popularity": 0.0763
+  },
+  "note": "Synthetic result; no production validation"
+}
